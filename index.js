@@ -1,5 +1,5 @@
-const vitorias = 0;
-const derrotas = 0;
+const vitorias = parseInt(prompt("Digite o número de vitórias:"));
+const derrotas = parseInt(prompt("Digite o número de derrotas:"));
 
 let saldo = vitorias - derrotas;
 
